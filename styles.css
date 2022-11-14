@@ -1,0 +1,28 @@
+body{
+    width: 50%;
+    background-color: aquamarine;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+.show{
+    display: flex;
+    justify-content: space-around;
+    margin: 1%;
+}
+#errMsg{
+    color: red;
+}
+.unshow{
+    display: none;
+    justify-content: space-around;
+    margin: 1%;
+}
+input{
+    height: 24px;
+    width: 100%;
+}
+button{
+    width: 30%;
+}
